@@ -1,0 +1,17 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immer": "^9.0.21",
+    "immutable": "^4.3.0",
+    "lodash": "^4.17.21"
+  }
+}
