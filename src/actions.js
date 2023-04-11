@@ -6,3 +6,11 @@ export const bugAdded= description => ({
         description :description
     }
 });
+
+export const bugResolved= id => ({
+    type: actions.BUG_REMOVED,
+    payload:{
+        id
+    }
+
+})
